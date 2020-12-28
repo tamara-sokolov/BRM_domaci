@@ -1,0 +1,18 @@
+﻿  Main.c
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(68,19): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(68,39): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(126,50): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(127,54): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(219,40): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(228,26): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(271,39): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(284,49): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(290,46): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(309,48): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(329,53): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(330,45): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(355,41): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(374,53): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(375,48): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Taja\source\repos\BRM_domaci_2\BRM_domaci_2\Main.c(413,41): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+  BRM_domaci_2.vcxproj -> C:\Users\Taja\source\repos\BRM_domaci_2\Debug\BRM_domaci_2.exe
